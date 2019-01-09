@@ -1,9 +1,5 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
 
-edit 2
-
-[![Build status](https://dev.azure.com/maverick/DemoProject/_apis/build/status/DemoProject-ASP.NET%20Core-CI%20(1))](https://dev.azure.com/maverick/DemoProject/_build/latest?definitionId=14)
-
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
 | Example | Build status |
